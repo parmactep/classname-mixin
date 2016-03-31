@@ -1,6 +1,6 @@
 {
   "name": "classname-mixin",
-  "version": "0.0.1",
+  "version": "1.0.1",
   "description": "react mixin to build and apply classnames including props classNames",
   "main": "index.js",
   "keywords": [
