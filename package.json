@@ -1,0 +1,23 @@
+{
+  "name": "classname-mixin",
+  "version": "0.0.1",
+  "description": "react mixin to build and apply classnames including props classNames",
+  "main": "index.js",
+  "keywords": [
+    "react",
+    "mixin",
+    "css",
+    "classes",
+    "classname",
+    "classnames"
+  ],
+  "author": "parmactep",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/parmactep/classname-mixin"
+  },
+  "dependencies": {
+    "classnames": "^2.2.3"
+  }
+}
