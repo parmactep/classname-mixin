@@ -3,10 +3,10 @@
 var classNames = require('classnames');
 
 module.exports = {
-	className: function (...classes) {
+	className: function () {
 		return classNames(
 			this.props.className,
-			classes
+			Array.prototype.slice.call(arguments)
 		);
 	}
 };
